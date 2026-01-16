@@ -1,5 +1,5 @@
 # 💫 About Me:
- Me chamo Marcos Henrique Alves de Oliveira, e estudo Desenvolvimento de Sistemas na Etec Professor Horácio Augusto da Silveira, atualmente estou no meu 3° ano, comecei em 2023 e termino em 2025, tenho conhecimentos acerca de: CSS, HTML5, JavaScript, Java, Python, SQL e C.
+ My name is Marcos, i am graduated in System Development by Etec Professor Horácio Augusto da Silveira, in love with creating and developing things.
 
 
 ## 🌐 Socials:
